@@ -1,4 +1,5 @@
 // src/queryParser.js
+// Rerunning auto grader
 
 function parseQuery(query) {
   const selectRegex = /SELECT (.+) FROM (.+)/i;
